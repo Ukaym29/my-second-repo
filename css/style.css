@@ -1,0 +1,209 @@
+#logo-text{
+    text-decoration: none;
+    color: #000;
+    font-family: satoshi;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#logo-image-link{
+    text-decoration: none;
+}
+
+#div-1{
+    display: flex;
+    align-items: center;
+}
+
+#div-2{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+
+#nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #C8C8C8;
+    padding: 15px 50px;
+}
+
+.middle-nav-links{
+    text-decoration: none;
+    color: black;
+    /* margin: 0px 15px; */
+}
+
+#login{
+    text-decoration: none;
+}
+
+#sign-up{
+    text-decoration: none;
+    background-color: #1070FF;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+#first-text-frame{
+    width: 806px;
+    margin: 112px auto;
+    
+}
+
+#webinars{
+    text-align: center;
+    color: #151517;
+    font-family: Satoshi;
+    font-size: 60px;
+    margin: 0;
+}
+
+#first-paragraph{
+    margin: 0;
+}
+
+#hero-section{
+    margin: auto;
+    width: 1280px;
+}
+
+#text-div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+#relationship{
+    width: 442px;
+    color: var(--Dark-1, #151517);
+    font-family: Satoshi;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+#date-text{
+    width: 738px;
+}
+
+
+#date-time{
+    width: 229px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#date-time>span{
+    color: #151517;
+    font-family: Satoshi;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#g-t{
+    border-radius: 4px;
+    background: #1070FF;
+    color: white;
+    text-decoration: none;
+    padding: 20px 32px;
+    padding-top: 22px;
+    display: inline-block;
+}
+
+#speaker-section, #event-section{
+    margin: auto;
+    width: 1280px;
+    margin-bottom: 20px;
+}
+
+#speaker-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid lightblue;
+}
+
+#view-all{
+    display: inline-block;
+}
+
+#speaker{
+    color: #151517;
+    font-family: Satoshi;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin: 10px;
+}
+
+#pic-text{
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+#img-1-div{
+    background-color: #5e99f3;
+    position: relative;
+}
+
+#img-2-div, #img-3-div{
+    background-color: #758aaa;
+    position: relative;
+}
+
+#img-1{
+    height: 100%;
+}
+
+#img-2, #img-3{
+    height: 100%;
+}
+
+#text-button-div{
+    width: 305px;
+}
+
+#therapist{
+    color: #151517;
+    font-family: Satoshi;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0;
+}
+
+#button{
+    margin-top: 446px;
+}
+
+.name-title{
+    /* margin: 0px 15px; */
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+.title-lang{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid white;
+    border-bottom: 2px solid white;
+    
+}
+
+.name, .title-lang{
+    color: white;
+    margin: 15px;
+}
